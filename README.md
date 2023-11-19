@@ -10,7 +10,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🏖️ I'm playing around machine learning🧠, MERN🕸️, java☕, and more  
 
-### Current Activities
+### === Current Activities ===
 
 🎓 Striving for an in-depth understanding of each course.
 
@@ -26,7 +26,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 👨‍💼 Looking for CO-OP opportunities.
 
-### Freshly Achieved
+### === Freshly Achieved ===
 
 🏆 Got all A+ in the 2nd semester, with overall GPA 4.441.
 
