@@ -1,13 +1,11 @@
 # Greetings!👋  
 
+My name is Dongli Liu,  Welcome to my GitHub!🏡
+
 ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
 ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
-
-My name is Dongli Liu,  Welcome to my GitHub!🏡
-
-----------------------------------------------------------
 
 🌱 I'm learning software - AI 🤖 in Centennial College.  
 
