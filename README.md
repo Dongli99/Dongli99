@@ -1,5 +1,10 @@
 # Greetings!👋  
 
+![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
+![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-orange)
+
 My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ----------------------------------------------------------
@@ -47,7 +52,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=git,figma&perline=10)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
 
-### Data Analytics + Data Science + AI
+### Data Analytics + Machine Learning
   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) ![Alt Anaconda](Anaconda-1.png)  ![Alt Jupyter](Jupyter.png) ![Alt Spyder](Spyder.png) ![Alt pandas](pandas.png) ![Alt numpy](numpy.png) ![Alt Matplotlib](Matplotlib.png) ![Alt Scikit_learn](Scikit_learn0.png) ![Alt Natural_Language_Toolkit](nltk.png) ![Alt statsmodels](statsmodels.png)  
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) ![Alt tidyverse](tidyverse.png) ![Alt ggplot](ggplot.png) ![Alt Tableau](Tableau.png) ![Alt bigQuery](BigQuery.png) ![Alt OracleSQL](OracleSQL.png) ![Alt excel](excel.png) 
