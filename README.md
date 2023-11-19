@@ -42,6 +42,18 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ### === Skills ===
 
-- Software Development
+#### Software Developing
 
-  - 
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp,git,figma&perline=10)](https://skillicons.dev)
+
+#### Data Analytics
+
+[![My Skills](https://skillicons.dev/icons?i=r,python,gcp&perline=10)](https://skillicons.dev)
+
+#### Full-stack Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,vite,mongodb,heroku,postman&perline=10)](https://skillicons.dev)
+
+#### Machine Learning
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=10)](https://skillicons.dev)
