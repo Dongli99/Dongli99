@@ -10,7 +10,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🏖️ I'm playing around machine learning🧠, MERN🕸️, java☕, and more  
 
-### === Current Activities ===
+## === Current Activities ===
 
 🎓 Striving for an in-depth understanding of each course.
 
@@ -26,7 +26,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 👨‍💼 Looking for CO-OP opportunities.
 
-### === Freshly Achieved ===
+## === Freshly Achieved ===
 
 🏆 Got all A+ in the 2nd semester, with an overall GPA 4.441.
 
@@ -40,20 +40,18 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 📈 Coded [Statistics](https://github.com/Dongli99/AutoStat) knowledge (will do documentation and fix a table reading bug later).
 
-### === Skills ===
+## === Skills ===
 
-#### Software Developing
+### Software Developing
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp,git,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,figma&perline=10)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
 
-#### Data Analytics
+### Data Analytics + Data Science + AI
+  
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) ![Alt Anaconda](Anaconda-1.png)  ![Alt Jupyter](Jupyter.png) ![Alt Spyder](Spyder.png) ![Alt pandas](pandas.png) ![Alt numpy](numpy.png) ![Alt Matplotlib](Matplotlib.png) ![Alt Scikit_learn](Scikit_learn0.png) ![Alt Natural_Language_Toolkit](nltk.png) ![Alt statsmodels](statsmodels.png)  
+[![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) ![Alt tidyverse](tidyverse.png) ![Alt ggplot](ggplot.png) ![Alt Tableau](Tableau.png) ![Alt bigQuery](BigQuery.png) ![Alt OracleSQL](OracleSQL.png) ![Alt excel](excel.png) 
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,gcp&perline=10)](https://skillicons.dev)
+### Full-stack Development
 
-#### Full-stack Development
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,vite,mongodb,heroku,postman&perline=10)](https://skillicons.dev)
-
-#### Machine Learning
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,mongodb,vite,heroku,postman&perline=10)](https://skillicons.dev)
