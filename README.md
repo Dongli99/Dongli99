@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
 ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-orange)
+![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 My name is Dongli Liu,  Welcome to my GitHub!🏡
 
@@ -49,8 +49,9 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ### Software Developing
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp&perline=10))](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=git,figma&perline=10)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
 
 ### Data Analytics + Machine Learning
   
