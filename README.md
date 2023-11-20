@@ -31,7 +31,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ## === Freshly Achieved ===
 
-🏆 Got all A+ in the 2nd semester, with an overall GPA **4.441**.
+🏆 Got all **A+** in the 2nd semester, with an overall GPA **4.441**.
 
 📜 Obtained Google Data Analytics **certificate** with a bunch of new skills.
 
