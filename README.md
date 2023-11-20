@@ -25,7 +25,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎢 Following UCB (**Berkeley**) courses to deepen understand of Machine learning.
 
-🔢 Coding what I learn in **[Linear Algebra]**(https://github.com/Dongli99/MatrixCalc) course.
+🔢 Coding what I learn in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course.
 
 👨‍💼 Looking for **CO-OP** opportunities.
 
