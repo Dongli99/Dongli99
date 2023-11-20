@@ -33,7 +33,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🏆 Got all **A+** in the 2nd semester, with an overall GPA **4.441**.
 
-📜 Obtained Google Data Analytics **certificate** with a bunch of new skills.
+📜 Obtained Google Data Analytics **Certificate** with a bunch of new skills.
 
 🚲 Learned **R** and completed [**sharing bike analytics notebook**](https://docs.google.com/presentation/d/1Hk36fAt6Zx2YISS7JFaht5jf18-jFTrqcbvt6S9DnS0/present?slide=id.g287bd23f883_0_125) on Kaggle.
 
