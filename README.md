@@ -17,6 +17,8 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎓 Striving for an **in-depth** understanding of each course.
 
+☕ Developing a Java application to communicate with Database using JDBC.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+
 🏫 Building a Student Management App using **MERN** as a **database programmer** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue).
 
 🩳 Creating a URL Shortening Website individually to practice **web application** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green).
