@@ -37,9 +37,9 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🚲 Learned **R** and completed [**sharing bike analytics notebook**](https://docs.google.com/presentation/d/1Hk36fAt6Zx2YISS7JFaht5jf18-jFTrqcbvt6S9DnS0/present?slide=id.g287bd23f883_0_125) on Kaggle.
 
-🏘️ **Analyzed** [strata fanance](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) for a  community.
+🏘️ **Analyzed** [strata fanance](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) for a  community.![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
 
-🩳 **Designed** [URL Shortening System](https://github.com/Dongli99/SW-Design-USS).
+🩳 **Designed** [URL Shortening System](https://github.com/Dongli99/SW-Design-USS).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 📈 Coded [**Statistics**](https://github.com/Dongli99/AutoStat) knowledge (will do documentation and fix a table reading bug later).
 
