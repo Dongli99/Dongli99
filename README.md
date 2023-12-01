@@ -21,7 +21,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🩳 Creating a URL Shortening Website individually to practice **web application**.
 
-🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress.
+🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress (be public after Dec 4).
 
 🎢 Following UCB (**Berkeley**) courses to deepen understand of Machine learning.
 
