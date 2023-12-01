@@ -19,11 +19,11 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ☕ Developing a Java application to communicate with Database using JDBC.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
-🏫 Building a Student Management App using **MERN** as a **database programmer** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue).
+🏫 Building a Student Management App using **MERN** as a **database programmer** .![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
-🩳 Creating a URL Shortening Website individually to practice **web application** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green).
+🩳 Creating a URL Shortening Website individually to practice **web application** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue). ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
-🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress (be public after Dec 4) ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple).
+🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress (be public after Dec 4). ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 🎢 Following UCB (**Berkeley**) courses to deepen understand of Machine learning.
 
@@ -37,9 +37,9 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 📜 Obtained Google Data Analytics **Certificate** with a bunch of new skills.
 
-🚲 Learned **R** and completed [**sharing bike analytics notebook**](https://docs.google.com/presentation/d/1Hk36fAt6Zx2YISS7JFaht5jf18-jFTrqcbvt6S9DnS0/present?slide=id.g287bd23f883_0_125) on Kaggle.
+🚲 Learned **R** and completed [**sharing bike analytics notebook**](https://docs.google.com/presentation/d/1Hk36fAt6Zx2YISS7JFaht5jf18-jFTrqcbvt6S9DnS0/present?slide=id.g287bd23f883_0_125) on Kaggle.![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
 
-🏘️ **Analyzed** [strata fanance](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) for a  community.![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
+🏘️ **Analyzed** [strata fanance](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) for a  community.
 
 🩳 **Designed** [URL Shortening System](https://github.com/Dongli99/SW-Design-USS).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
