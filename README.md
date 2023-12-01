@@ -17,7 +17,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎓 Striving for an **in-depth** understanding of each course.
 
-☕ Developing a Java application to communicate with Database using JDBC.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+☕ Developing a Java application to communicate with Database using JDBC (Final stage).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 🏫 Building a Student Management App using **MERN** as a **database programmer**.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
@@ -35,7 +35,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🏆 Got all **A+** in the 2nd semester, with an overall GPA **4.441**.
 
-📜 Obtained Google Data Analytics **Certificate** with a bunch of new skills.
+📜 Obtained Google Data Analytics **Certificate** with a bunch of new skills. <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14a9e226-b13b-41a3-86ad-7ee48f2b694d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 🚲 Learned **R** and completed [**sharing bike analytics notebook**](https://docs.google.com/presentation/d/1Hk36fAt6Zx2YISS7JFaht5jf18-jFTrqcbvt6S9DnS0/present?slide=id.g287bd23f883_0_125) on Kaggle.![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
 
