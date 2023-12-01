@@ -19,10 +19,9 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🏫 Building a Student Management App using **MERN** as a **database programmer** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue).
 
-🩳 Creating a URL Shortening Website individually to practice **web application** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-.
+🩳 Creating a URL Shortening Website individually to practice **web application** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue).
 
-🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress (be public after Dec 4).
+🧬 A **NLP neural network** model to filter spam of Youtube reviews is in progress (be public after Dec 4) ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple).
 
 🎢 Following UCB (**Berkeley**) courses to deepen understand of Machine learning.
 
