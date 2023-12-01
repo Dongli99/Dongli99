@@ -17,7 +17,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎓 Striving for an **in-depth** understanding of each course.
 
-🏫 Building a Student Management App using **MERN** as a **database programmer**.
+🏫 Building a Student Management App using **MERN** as a **database programmer** ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue).
 
 🩳 Creating a URL Shortening Website individually to practice **web application**.
 
