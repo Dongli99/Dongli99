@@ -31,7 +31,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ## === Freshly Achieved ===
 
-🧬 A **NLP**(Natual Language Processing) model to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
+🧬 A [**NLP**(Natual Language Processing) model](https://github.com/Dongli99/NLP-SpamClassify) to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 🏆 Got all **A+** in the 2nd semester, with an overall GPA **4.441**.
 
