@@ -17,8 +17,6 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎓 Striving for an **in-depth** understanding of each course.
 
-☕ Developing a Java application to communicate with Database using JDBC (Final stage).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
-
 🏫 Building a Student Management App using **MERN** as a **database programmer**.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 🩳 Creating a URL Shortening Website individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
@@ -30,6 +28,8 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 👨‍💼 Looking for **CO-OP** opportunities.
 
 ## === Freshly Achieved ===
+
+☕ Developing a Java application to communicate with Database using [JDBC](https://github.com/Dongli99/JDBC-Communicator).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 🧬 A [**NLP**(Natual Language Processing) model](https://github.com/Dongli99/NLP-SpamClassify) to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
