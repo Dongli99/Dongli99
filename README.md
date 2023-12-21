@@ -21,8 +21,6 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🩳 Creating a URL Shortening Website individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
-🎢 Following UCB (**Berkeley**) courses to deepen understand of Machine learning.
-
 🔢 Coding what I learn in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course.
 
 👨‍💼 Looking for **CO-OP** opportunities.
@@ -33,7 +31,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🧬 A [**NLP**(Natual Language Processing) model](https://github.com/Dongli99/NLP-SpamClassify) to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
-🏆 Got all **A+** in the 2nd semester, with an overall GPA **4.441**.
+🏆 Got an overall GPA **4.38**.
 
 <img src="google-data-analytics-certificate.2.png" alt="google-data-analytics-certificate" width="18"/> Obtained [Google Data Analytics certificate](https://www.coursera.org/professional-certificates/google-data-analytics) with a bunch of new skills.  
 
