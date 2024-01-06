@@ -19,7 +19,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🎓 Preparing for the 4th semester.
 
-🩳 Building a URL Shortening Website individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 🧠 Learning **Tensorflow**. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
