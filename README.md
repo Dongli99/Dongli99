@@ -15,19 +15,21 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ## === Current Activities ===
 
-🎓 Striving for an **in-depth** understanding of each course.
-
-🏫 Building a Student Management App using **MERN** as a **database programmer**.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-
-🩳 Creating a URL Shortening Website individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
-
-🔢 Coding what I learn in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course.
-
 👨‍💼 Looking for **CO-OP** opportunities.
+
+🎓 Preparing for the 4th semester.
+
+🩳 Building a URL Shortening Website individually to practice **web application**. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+
+🧠 Learning **Tensorflow**. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 ## === Freshly Achieved ===
 
-☕ Developing a Java application to communicate with Database using [JDBC](https://github.com/Dongli99/JDBC-Communicator).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+🔢 Coded what I learn in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course.
+
+🏫 Built a Student Management App using **MERN** as a **database programmer** in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+
+☕ Developed a Java application to communicate with Database using [JDBC](https://github.com/Dongli99/JDBC-Communicator) (V1).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green) 
 
 🧬 A [**NLP**(Natual Language Processing) model](https://github.com/Dongli99/NLP-SpamClassify) to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
