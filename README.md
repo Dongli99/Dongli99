@@ -17,7 +17,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 👨‍💼 Looking for **CO-OP** opportunities.
 
-🎓 Preparing for the 4th semester.
+🎓 Learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
 
 🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually to practice **web application** ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
