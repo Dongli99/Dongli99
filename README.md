@@ -21,7 +21,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 * All  
   * Restructure knowledge in each course into mindmap. 
 * Data Structure and Algorithm:  
-  * learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
+  * Learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
 * PL/SQL
   * Recap previous learning in one article.
 * Networking for developer
