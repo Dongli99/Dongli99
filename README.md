@@ -18,8 +18,8 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 👨‍💼 Looking for **CO-OP** opportunities.
 
 🎓 Understand each course in depth by extra practice/projects  
-* All
- * Restructure knowledge in each course into mindmap. 
+* All  
+  * Restructure knowledge in each course into mindmap. 
 * Data Structure and Algorithm:  
   * learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
 * PL/SQL
