@@ -18,6 +18,8 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 👨‍💼 Looking for **CO-OP** opportunities.
 
 🎓 Understand each course in depth by extra practice/projects  
+* All
+ * Restructure knowledge in each course into mindmap. 
 * Data Structure and Algorithm:  
   * learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
 * PL/SQL
@@ -25,13 +27,11 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 * Networking for developer
   * TDB
 * Supervised Learning
-  * TDB
+  * Follow UC Berkeley open courses to get more insights
 * Testing
   * Perform unit test to [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys)
 
 🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually to practice **web application** ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
-
-🧠 Learning **Tensorflow**. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 ## === Freshly Achieved ===
 
