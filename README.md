@@ -18,20 +18,20 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 👨‍💼 Looking for **CO-OP** opportunities.
 
 🎓 Understand each course in depth by extra practice/projects  
-* All  
-  * Restructure knowledge in each course into mindmap. 
-* Data Structure and Algorithm:  
-  * Learn [Data Structures](https://github.com/Dongli99/Data-Structures-Java) by creating them from scratch.  ![Static Badge](https://img.shields.io/badge/-Algorithms-gray)
-* PL/SQL
-  * Recap previous learning in one article.
-* Networking for developer
-  * TDB
-* Supervised Learning
-  * Follow UC Berkeley open courses to get more insights
-* Testing
-  * Perform unit test to [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys)
+| Course                 | Activity                                       | Status                  |
+|------------------------|------------------------------------------------|-------------------------|
+| All                    | Restructure knowledge in each course into mindmap. | 30% |
+| Data Structure and Algorithm | Learn Data Structures by creating them from scratch. | 50% |
+| PL/SQL                 | Recap previous learning in one article.         | 20% |
+| Networking for developer | Finish group project in high quality.         | 0%   |
+| Supervised Learning    | Practice and explore competition on Kaggle. | 5% |
+| Testing                | Perform unit test to URL Shortening System.     | 0% |
+
+**Others:**
 
 🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually to practice **web application** ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+
+🥬 systematically exploring Spring Boot by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 ## === Freshly Achieved ===
 
