@@ -11,13 +11,13 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ❤️ My favorite are **coding**💻 and **math**🔢.   
 
-🏖️ I'm playing around **MERN**🕸️, **java**☕, **machine learning**🧠, **python**, and more  
+🏖️ I'm playing around `JavaScript`🕸️, `java`☕, `python`, `machine learning`🧠, and more.  
 
 ## === Current Activities ===
 
 👨‍💼 Looking for **CO-OP** opportunities.
 
-🎓 Understand each course in depth by extra practice/projects  
+🎓 Understand each course in depth by effort not limited to the class  
 | Course                 | Activity                                       | Status                  |
 |------------------------|------------------------------------------------|-------------------------|
 | All                    | Restructure knowledge in each course into mindmap. | 30% |
