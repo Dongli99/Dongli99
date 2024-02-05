@@ -35,7 +35,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ## === Freshly Achieved ===
 
-🔢 Coded what I learned in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course (Coverage of key points >90% ).
+🔢 Coded what I learned in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).
 
 🏫 Built a Student Management App using **MERN** as a **database programmer** in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
