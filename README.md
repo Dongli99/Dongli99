@@ -22,7 +22,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 |------------------------|------------------------------------------------|-------------------------|
 | All                    | Restructure knowledge in each course into mindmap. | ![](https://geps.dev/progress/30) |
 | Data Structure and Algorithm | Learn Data Structures by creating them from scratch. | ![](https://geps.dev/progress/50) |
-| PL/SQL                 | Recap previous learning in one article.         | ![](https://geps.dev/progress/20) |
+| PL/SQL                 | Recap previous learning in one Medium article.         | ![](https://geps.dev/progress/20) |
 | Networking for developer | Finish group project in high quality.         | ![](https://geps.dev/progress/0)   |
 | Supervised Learning    | Practice and explore competition on Kaggle. | ![](https://geps.dev/progress/5) |
 | Testing                | Perform unit test to URL Shortening System.     | ![](https://geps.dev/progress/10) |
