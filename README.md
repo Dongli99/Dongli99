@@ -11,7 +11,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ❤️ My favorite are **coding**💻 and **math**🔢.   
 
-🏖️ I'm playing around `JavaScript`🕸️, `java`☕, `python`, `machine learning`🧠, and more.  
+🏖️ I'm playing around `JavaScript`🕸️, `java`☕, `Python`, `Machine Learning`🧠, and more.  
 
 ## === Current Activities ===
 
@@ -31,7 +31,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
-🥬 systematically exploring `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+🥬 Systematically exploring `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 ## === Freshly Achieved ===
 
@@ -59,15 +59,15 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 ### Software Developing
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,linux,visualstudio,vscode,idea,eclipse,gcp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,visualstudio,vscode,idea,eclipse,gcp,github)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
+[![My Skills](https://skillicons.dev/icons?i=git,figma,spring,linux)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
 
 ### Data Analytics + Machine Learning
   
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) ![Alt Anaconda](Anaconda-1.png)  ![Alt Jupyter](Jupyter.png) ![Alt Spyder](Spyder.png) ![Alt pandas](pandas.png) ![Alt numpy](numpy.png) ![Alt Matplotlib](Matplotlib.png) ![Alt Scikit_learn](Scikit_learn0.png) ![Alt Natural_Language_Toolkit](nltk.png) ![Alt statsmodels](statsmodels.png)  
-[![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) ![Alt tidyverse](tidyverse.png) ![Alt ggplot](ggplot.png) ![Alt Tableau](Tableau.png) ![Alt bigQuery](BigQuery.png) ![Alt OracleSQL](OracleSQL.png) ![Alt excel](excel.png) 
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev) ![Alt Anaconda](Anaconda-1.png)  ![Alt Jupyter](Jupyter.png) ![Alt Spyder](Spyder.png) ![Alt pandas](pandas.png) ![Alt numpy](numpy.png) ![Alt Matplotlib](Matplotlib.png) ![Alt Natural_Language_Toolkit](nltk.png) ![Alt statsmodels](statsmodels.png)  
+[![My Skills](https://skillicons.dev/icons?i=r,tensorflow,opencv)](https://skillicons.dev) ![Alt tidyverse](tidyverse.png) ![Alt ggplot](ggplot.png) ![Alt Tableau](Tableau.png) ![Alt bigQuery](BigQuery.png) ![Alt OracleSQL](OracleSQL.png) ![Alt excel](excel.png) 
 
 ### Full-stack Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,mongodb,vite,heroku,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,mongodb,vite,heroku,vscode,spring,tailwind,postman,nginx&perline=10)](https://skillicons.dev)
