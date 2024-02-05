@@ -2,10 +2,10 @@
 
 My name is Dongli Liu,  Welcome to my GitHub!🏡
 
-![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
-![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
-![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
+![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple?style=for-the-badge)
 
 🌱 I'm learning **software - AI** at Centennial College.  
 
