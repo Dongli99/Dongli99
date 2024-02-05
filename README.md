@@ -37,7 +37,7 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 🔢 Coded what I learned in [**Linear Algebra**](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).
 
-🏫 Built a Student Management App using **MERN** as a **database programmer** in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+🏫 Built a [Student Management App](https://wizstack.onrender.com/) using **MERN** as a **database programmer** in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 ☕ Developed a Java application to communicate with Database using [JDBC](https://github.com/Dongli99/JDBC-Communicator) (V1).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green) 
 
