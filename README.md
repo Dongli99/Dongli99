@@ -7,11 +7,11 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
-🌱 I'm learning **software - AI** 🤖 in Centennial College.  
+🌱 I'm learning **software - AI** at Centennial College.  
 
 ❤️ My favorite are **coding**💻 and **math**🔢.   
 
-🏖️ I'm playing around **machine learning**🧠, **MERN**🕸️, **java**☕, **python**, and more  
+🏖️ I'm playing around **MERN**🕸️, **java**☕, **machine learning**🧠, **python**, and more  
 
 ## === Current Activities ===
 
@@ -29,9 +29,9 @@ My name is Dongli Liu,  Welcome to my GitHub!🏡
 
 **Others:**
 
-🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually to practice **web application** ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
-🥬 systematically exploring Spring Boot by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
+🥬 systematically exploring `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
 ## === Freshly Achieved ===
 
