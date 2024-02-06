@@ -27,7 +27,7 @@
 | Supervised Learning    | Practice and explore competition on Kaggle. | ![](https://geps.dev/progress/5) |
 | Testing                | Perform unit test to URL Shortening System.     | ![](https://geps.dev/progress/10) |
 
-**Others:**
+**Career Technology Exploration**
 
 🩳 Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue) ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPING-green)
 
