@@ -70,4 +70,4 @@
 
 ### Full-stack Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,mongodb,vite,heroku,vscode,spring,tailwind,postman,nginx&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,jquery,bootstrap,js,nodejs,expressjs,react,mongodb,vite,heroku,vscode,spring,gradle,tailwind,postman,nginx&perline=10)](https://skillicons.dev)
