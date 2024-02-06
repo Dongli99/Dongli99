@@ -59,7 +59,7 @@
 
 ### Software Developing
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,visualstudio,vscode,idea,eclipse,jira,gcp,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,visualstudio,vscode,idea,eclipse,gcp,github)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=git,figma,spring,linux)](https://skillicons.dev) ![Alt planner](planner.png) ![Alt text](vspd.png) 
 
