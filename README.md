@@ -32,6 +32,8 @@
 
 # Freshly Achieved
 
+- Built a simple GUI using Python Tkinter. ![click to project](https://github.com/Dongli99/PY-gui-tkinter)
+
 - Coded what I learned in [`Linear Algebra`](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green)
 
 - Built a [Student Management App](https://wizstack.onrender.com/) using `MERN` as a database programmer in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
