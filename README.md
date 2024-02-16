@@ -14,7 +14,7 @@
 # Current Activities
 
 - Looking for **CO-OP** opportunities.
-- Fully understand each course by going beyond classroom lectures in the new semester.
+- Developing comprehensive understanding of each courses.
 
 | Course                 | Activity                                       | Status                  |
 |------------------------|------------------------------------------------|-------------------------|
@@ -22,7 +22,7 @@
 | Data Structure and Algorithm | Learn Data Structures by creating them from scratch. | ![](https://geps.dev/progress/50) |
 | PL/SQL                 | Recap previous learning in one Medium article.         | ![](https://geps.dev/progress/30) |
 | Networking for developer | Build web service with Flask. (group project)       | ![](https://geps.dev/progress/0)   |
-| Supervised Learning    | Practice and explore competition on Kaggle. | ![](https://geps.dev/progress/5) |
+| Supervised Learning    | Develop a predictive ML model  and deploy it as a web API. | ![](https://geps.dev/progress/5) |
 | Testing                | Perform unit test to URL Shortening System.     | ![](https://geps.dev/progress/10) |
 
 ## Career Technology Exploration
