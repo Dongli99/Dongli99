@@ -14,7 +14,7 @@
 # Current Activities
 
 - Looking for **CO-OP** opportunities.
-- Developing comprehensive understanding of each courses.
+- In-depth study of various courses.
 
 | Course                 | Activity                                       | Status                  |
 |------------------------|------------------------------------------------|-------------------------|
