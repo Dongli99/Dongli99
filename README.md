@@ -20,9 +20,9 @@
 |------------------------|------------------------------------------------|-------------------------|
 | All                    | Restructure knowledge in each course into mindmap. | ![](https://geps.dev/progress/50) |
 | Data Structure and Algorithm | Learn Data Structures by creating them from scratch. | ![](https://geps.dev/progress/50) |
-| PL/SQL                 | Project communicate with DB using GUI and PL/SQL (group) | ![](https://geps.dev/progress/30) |
+| PL/SQL                 | Project communicate with DB using GUI and PL/SQL (group) | ![](https://geps.dev/progress/0) |
 | Networking for developer | Build web service with Flask. (group)       | ![](https://geps.dev/progress/0)   |
-| Supervised Learning    | Develop a predictive ML model and deploy it as a web API. (group)| ![](https://geps.dev/progress/5) |
+| Supervised Learning    | Develop a predictive ML model and deploy it as a web API. (group)| ![](https://geps.dev/progress/0) |
 | Testing                | Perform unit test to URL Shortening System.     | ![](https://geps.dev/progress/10) |
 
 ## Career Technology Exploration
