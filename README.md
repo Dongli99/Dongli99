@@ -28,9 +28,10 @@
 ## Career Technology Exploration
 
   - Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-  - Systematically exploring `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 # Freshly Achieved
+
+- Systematically explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 - Built a simple GUI using Python Tkinter. [click to project](https://github.com/Dongli99/PY-gui-tkinter)
 
