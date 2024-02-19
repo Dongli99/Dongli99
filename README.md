@@ -33,7 +33,7 @@
 
 - Systematically explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
-- Built a simple GUI using Python Tkinter. [click to project](https://github.com/Dongli99/PY-gui-tkinter)
+- Built a simple GUI using Python Tkinter. [click to project](https://github.com/Dongli99/PY-gui-tkinter).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
 - Coded what I learned in [`Linear Algebra`](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green)
 
