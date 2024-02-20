@@ -13,7 +13,7 @@
 
 # Current Activities
 
-## In-depth study of various courses.
+## In-depth study of college courses.
 
 | Course                 | Contents    | Activities |
 |------------------------|----------------------|--------|
