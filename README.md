@@ -13,26 +13,30 @@
 
 # Current Activities
 
-- Looking for **CO-OP** opportunities.
-- In-depth study of various courses.
+## In-depth study of various courses.
 
-| Course                 | Activity                                       | Status                  |
-|------------------------|------------------------------------------------|-------------------------|
-| All                    | Restructure knowledge in each course into mindmap. | ![](https://geps.dev/progress/50) |
-| Data Structure and Algorithm | Learn Data Structures by creating them from scratch. | ![](https://geps.dev/progress/50) |
-| PL/SQL                 | Project communicate with DB using GUI and PL/SQL (group) | ![](https://geps.dev/progress/0) |
-| Networking for developer | Build web service with Flask. (group)       | ![](https://geps.dev/progress/0)   |
-| Supervised Learning    | Develop a predictive ML model and deploy it as a web API. (group)| ![](https://geps.dev/progress/0) |
-| Testing                | Perform unit test to URL Shortening System.     | ![](https://geps.dev/progress/10) |
+| Course                 | Contents    | Activities |
+|------------------------|----------------------|--------|
+| All                    | - | Restructure knowledge in each course into mindmap. |
+| Data Structure and Algorithm | LinkedLists, BigO, Recursion, Stack & Queue, Iterators, Trees, PQ & Heaps, Search Trees, Sorting & Selection |Learn Data Structures by creating them from scratch. |
+| PL/SQL                 | ExecutableStatement, ControlStructures, Composite...  *cont.* |Project communicate with DB using GUI and PL/SQL (group) | 
+| Networking for developer | Network hierarchy, argparse, flask, wireshark, tkinter, requests, sockets, email...  *cont.* | Build web service with Flask. (group)       |
+| Supervised Learning    | ML process, SVM, Non Linear SVM, API Service... *cont.*|Develop a predictive ML model and deploy it as a web API. (group)| 
+| Testing                | Fundamentals, TDD, WBox & Bbox, JUnit, CheckStyle...  *cont.*| Perform testing on Spring projects and future individual projects. |
 
-## Career Technology Exploration
+## Additional Career Exploration
 
-  - Building a [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+| Activity               | Contents     | Process |
+|------------------------|--------------|-------|
+| Learn Spring Boot from the book [`Cloud Native Java`](https://learning.oreilly.com/library/view/cloud-native-java/9781449374631/part01ch02.html#idm139906085683248) |-Building resilient distributed systems using Spring and Netflix OSS<br>-Using continuous delivery to operate cloud native applications with Cloud Foundry|Chapter2|
+| Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
 
 - Systematically explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
+- Built an [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+  
 - Built a simple GUI using Python Tkinter. [click to project](https://github.com/Dongli99/PY-gui-tkinter).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
 - Coded what I learned in [`Linear Algebra`](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green)
