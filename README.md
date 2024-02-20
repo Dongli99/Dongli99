@@ -33,7 +33,7 @@
 
 # Freshly Achieved
 
-- Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) using `requests`, `argparser`, `threads` with concept of class.
+- Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) using `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
 - Systematically explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
