@@ -19,7 +19,7 @@
 |------------------------|----------------------|--------|
 | All                    | - | Restructure knowledge in each course into mindmap. |
 | Data Structure and Algorithm | LinkedLists, BigO, Recursion, Stack & Queue, Iterators, Trees, PQ & Heaps, Search Trees, Sorting & Selection |Learn Data Structures by creating them from scratch. |
-| PL/SQL                 | ExecutableStatement, ControlStructures, Composite...  *cont.* |Project communicate with DB using GUI and PL/SQL (group) | 
+| PL/SQL                 | ExecutableStatement, ControlStructures, Composite, Cursor...  *cont.* |Project communicate with DB using GUI and PL/SQL (group) | 
 | Networking for developer | Network hierarchy, argparse, flask, wireshark, tkinter, requests, sockets, email...  *cont.* | Build web service with Flask. (group)       |
 | Supervised Learning    | ML process, SVM, Non Linear SVM, API Service... *cont.*|Develop a predictive ML model and deploy it as a web API. (group)| 
 | Testing                | Fundamentals, TDD, WBox & Bbox, JUnit, CheckStyle...  *cont.*| Perform testing on Spring projects and future individual projects. |
