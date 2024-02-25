@@ -35,7 +35,7 @@
 
 - Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) using `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
-- Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo additionally shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+- Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo also shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 - Built an [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
   
