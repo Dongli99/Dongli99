@@ -28,7 +28,7 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Systematically learn Spring Boot. |-Building resilient distributed systems using Spring and Netflix OSS<br>-Using continuous delivery to operate cloud native applications with Cloud Foundry| [repo](https://github.com/Dongli99/SPRING-100steps)|
+| Systematically learn Spring Boot. |[Learn Spring Boot 3 in 100 Steps - Beginner to Expert](https://learning.oreilly.com/history/#:~:text=Learn%20Spring%20Boot%203%20in%20100%20Steps%20%2D%20Beginner%20to%20Expert)| [repo](https://github.com/Dongli99/SPRING-100steps)|
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
