@@ -28,14 +28,14 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Learn Spring Boot from the book [`Cloud Native Java`](https://learning.oreilly.com/library/view/cloud-native-java/9781449374631/part01ch02.html#idm139906085683248) |-Building resilient distributed systems using Spring and Netflix OSS<br>-Using continuous delivery to operate cloud native applications with Cloud Foundry|Chapter2|
+| Systematically learn Spring Boot. |-Building resilient distributed systems using Spring and Netflix OSS<br>-Using continuous delivery to operate cloud native applications with Cloud Foundry| [repo](https://github.com/Dongli99/SPRING-100steps)|
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
 
 - Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) using `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
-- Systematically explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
+- Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo additionally shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
 - Built an [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
   
