@@ -28,7 +28,7 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Learn Spring Boot | DB, Web, JUnit, MicroService from O'Reilly, Youtube, and Guide | MicroService |
+| Learn Spring Boot | JPA, Web, JUnit, MicroService... from O'Reilly, Youtube, and Guide | MicroService |
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
