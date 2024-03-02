@@ -28,7 +28,7 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Systematically learn Spring Boot. |[Learn Spring Boot 3 in 100 Steps - Beginner to Expert](https://www.oreilly.com/library/view/learn-spring-boot/9781788996624/video6_4.html)| [repo](https://github.com/Dongli99/SPRING-100steps)|
+| Learn Spring Boot | DB, Web, JUnit, MicroService from O'Reilly, Youtube, and Guide | MicroService |
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
