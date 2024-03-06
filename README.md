@@ -28,7 +28,7 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Learn Spring Boot | JPA, Web, JUnit, MicroService... from O'Reilly, Youtube, and Guide | MicroService |
+| Learn and use Spring Boot | Using Spring boot to communicate with Oracle DB including procedure and function | [repo](https://github.com/Dongli99/spring-dream-home.git) |
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
