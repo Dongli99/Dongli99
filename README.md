@@ -9,7 +9,7 @@
 
 ❤️ My favorite are `coding` and `math`.   
 
-🏖️ I'm playing around `JavaScript`, `java`, `Python`, `Machine Learning`, and more.  
+🏖️ I'm playing around `JavaScript`, `Java`, `Python`, `Machine Learning`, and more.  
 
 # Current Activities
 
@@ -28,7 +28,7 @@
 
 | Activity               | Contents     | Process |
 |------------------------|--------------|-------|
-| Learn and use Spring Boot | Using Spring boot to communicate with Oracle DB including procedure and function | [repo](https://github.com/Dongli99/spring-dream-home.git) |
+| Learn and use Spring Boot | Using Spring boot to communicate with Oracle DB including procedure and function | [Repo](https://github.com/Dongli99/spring-dream-home.git) |
 | Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
 
 # Freshly Achieved
