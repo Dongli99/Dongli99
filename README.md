@@ -33,7 +33,9 @@
 
 # Freshly Achieved
 
-- Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) using `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
+- Created a [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator) simulating male and female talking flow. Utilized `Python`, `matplotlib`, and `numpy`. Data can be used as material of Analytics. ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
+
+- Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) used `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 
 - Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo also shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 
