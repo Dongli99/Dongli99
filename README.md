@@ -11,44 +11,17 @@
 
 🏖️ I'm playing around `JavaScript`, `Java`, `Python`, `Machine Learning`, and more.  
 
-# Current Activities
-
-## In-depth study of college courses.
-
-| Course                 | Contents    | Activities |
-|------------------------|----------------------|--------|
-| All                    | - | Restructure knowledge in each course into mindmap. |
-| Data Structure and Algorithm | LinkedLists, BigO, Recursion, Stack & Queue, Iterators, Trees, PQ & Heaps, Search Trees, Sorting & Selection |Learn Data Structures by creating them from scratch. |
-| PL/SQL                 | ExecutableStatement, ControlStructures, Composite, Cursor...  *cont.* |Project communicate with DB using GUI and PL/SQL (group) | 
-| Networking for developer | Network hierarchy, argparse, flask, wireshark, tkinter, requests, sockets, email...  *cont.* | Build web service with Flask. (group)       |
-| Supervised Learning    | ML process, SVM, Non Linear SVM, API Service... *cont.*|Develop a predictive ML model and deploy it as a web API. (group)| 
-| Testing                | Fundamentals, TDD, WBox & Bbox, JUnit, CheckStyle...  *cont.*| Perform testing on Spring projects and future individual projects. |
-
-## Additional Career Exploration
-
-| Activity               | Contents     | Process |
-|------------------------|--------------|-------|
-| Learn and use Spring Boot | Using Spring boot to communicate with Oracle DB including procedure and function | [Repo](https://github.com/Dongli99/spring-dream-home.git) |
-| Build Receipt Management Sys for a local Catering Businesses | Intuitive interface, signatures on receipts, data aggregation... | Requirement Gathering|
-
 # Freshly Achieved
 
-- Created a [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator) simulating male and female talking flow. Utilized `Python`, `matplotlib`, and `numpy`. Data can be used as material of Analytics. ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
-
+- Created sister projects [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator), [Gauge](https://github.com/Dongli99/PY-gui-gauge), and [DynamicChart](https://github.com/Dongli99/PY-dynamic-chart) using `Python`. ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
+- Developed a [backend](https://github.com/Dongli99/spring-dream-home.git) communicating with Oracle DB including procedure using `Spring Boot`; the backend followed Testing Driven Development approach. 
 - Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) used `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
-
 - Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo also shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-
 - Built an [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-  
 - Built a simple GUI using Python Tkinter. [click to project](https://github.com/Dongli99/PY-gui-tkinter).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
-
 - Coded what I learned in [`Linear Algebra`](https://github.com/Dongli99/MatrixCalc) course in `Python` (Coverage of key points >90% ).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green)
-
 - Built a [Student Management App](https://wizstack.onrender.com/) using `MERN` as a database programmer in a group.![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
-
 - Developed a `Java` application to communicate with Database using [`JDBC`](https://github.com/Dongli99/JDBC-Communicator) (V1).![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
-
 - A [`NLP`(Natual Language Processing) model](https://github.com/Dongli99/NLP-SpamClassify) to filter spam of Youtube reviews is in progress. ![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
 
 - Got an overall `GPA` **4.38**. ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green)![Static Badge](https://img.shields.io/badge/-MACHINE_LEARNING-purple)
