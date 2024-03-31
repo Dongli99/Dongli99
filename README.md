@@ -14,7 +14,7 @@
 # Freshly Achieved
 
 - Created sister projects [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator), [Gauge](https://github.com/Dongli99/PY-gui-gauge), and [DynamicChart](https://github.com/Dongli99/PY-dynamic-chart) using `Python`. ![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) ![Static Badge](https://img.shields.io/badge/-DATA_ANALYTICS-orange)
-- Developed a [backend](https://github.com/Dongli99/spring-dream-home.git) communicating with Oracle DB including procedure using `Spring Boot`; the backend followed Testing Driven Development approach. 
+- Developed a [backend](https://github.com/Dongli99/spring-dream-home.git) communicating with Oracle DB including procedure using `Spring Boot`; the backend followed Testing Driven Development approach. ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 - Built an [File Downloader](https://github.com/Dongli99/PY-FileDownloader) used `requests`, `argparser`, `threads` with concept of class.![Static Badge](https://img.shields.io/badge/-SOFTWARE_DEVELOPMENT-green) 
 - Explored basics and `CRUD`, `security` modules of `Spring Boot` by practicing official. This repo also shows how I digest new knowledge. [CashCard Project](https://github.com/Dongli99/SPRING-cashcard).![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
 - Built an [URL Shortening System](https://github.com/Dongli99/MERN-UrlShortenSys) individually using `MERN` ([Demo](https://u.dongli.ca)). ![Static Badge](https://img.shields.io/badge/-FULL_STACK-blue)
