@@ -1,5 +1,3 @@
-### Advertising → AI Engineering → Indie
-
 <table>
   <tr>
     <td valign="top">
